@@ -1,13 +1,13 @@
 <!-- ===================== MAIN WRAPPER ===================== -->
 <div style="background-color:#0d1117; padding:24px; border-radius:14px;">
 
-<!-- ===================== TOP TITLE ===================== -->
-<h1 align="center">Hi 😃, I'm Aryan Patil.</h1>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 😄, I'm Aryan Patil.</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
 <hr style="border:1px solid #30363d; margin:20px 0;">
 
-<!-- ===================== CONTENT LAYOUT ===================== -->
+<!-- ===================== CONTENT ROW ===================== -->
 <table width="100%">
 <tr>
 
@@ -25,7 +25,9 @@
   <br>
   <li>💬 Ask me about <b>Cloud, SQL, Python, AI</b></li>
   <br>
-  <li>📩 How to reach me: <a href="mailto:patilaryan532@gmail.com"><b>patilaryan532@gmail.com</b></a></li>
+  <li>📩 How to reach me: 
+    <a href="mailto:patilaryan532@gmail.com"><b>patilaryan532@gmail.com</b></a>
+  </li>
 </ul>
 
 <br>
@@ -44,7 +46,7 @@
 
 </td>
 
-<!-- ===================== RIGHT IMAGE ===================== -->
+<!-- ===================== RIGHT SIDE AI IMAGE ===================== -->
 <td width="40%" align="center">
   <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995"
        width="100%"
@@ -55,7 +57,7 @@
 </tr>
 </table>
 
-<hr style="border:1px solid #30363d; margin:20px 0;">
+<hr style="border:1px solid #30363d; margin:30px 0;">
 
 <!-- ===================== LANGUAGES & TOOLS ===================== -->
 <h3>Languages and Tools:</h3>
@@ -73,8 +75,32 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42"/>
 </p>
 
-<hr style="border:1px solid #30363d; margin:20px 0;">
+<hr style="border:1px solid #30363d; margin:35px 0;">
+
+<!-- ===================== BOTTOM STATS SECTION (LIKE IMAGE) ===================== -->
+<table align="center">
+<tr>
+
+<!-- PROFILE CARD -->
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryxett&show_icons=true&theme=dracula&hide_border=true"
+       height="180"/>
+</td>
+
+<!-- TOP LANGUAGES CARD -->
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxett&layout=compact&theme=dracula&hide_border=true"
+       height="180"/>
+</td>
+
+<!-- STREAK CARD -->
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryxett&theme=dracula&hide_border=true"
+       height="180"/>
+</td>
+
+</tr>
+</table>
 
 </div>
-
 
