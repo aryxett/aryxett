@@ -90,4 +90,30 @@
 
 </div>
 
+<!-- ===================== BOTTOM STATS SECTION ===================== -->
+<table align="center">
+<tr>
+
+<!-- ===== CARD 1 : PROFILE STATS ===== -->
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryxett&show_icons=true&theme=dracula&hide_border=true"
+       height="180"/>
+</td>
+
+<!-- ===== CARD 2 : TOP LANGUAGES ===== -->
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxett&layout=compact&theme=dracula&hide_border=true"
+       height="180"/>
+</td>
+
+<!-- ===== CARD 3 : STREAK ===== -->
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryxett&theme=dracula&hide_border=true"
+       height="180"/>
+</td>
+
+</tr>
+</table>
+
+
 
