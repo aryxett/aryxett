@@ -75,19 +75,6 @@
 
 <hr style="border:1px solid #30363d; margin:20px 0;">
 
-<!-- ===================== GITHUB STATS ===================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryxett&show_icons=true&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxett&layout=compact&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryxett&theme=dracula"/>
-</p>
-
 </div>
 
 
