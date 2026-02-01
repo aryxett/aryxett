@@ -48,10 +48,9 @@
 
 <!-- ===================== RIGHT SIDE IMAGE ===================== -->
 <td width="40%" align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995"
-       width="100%"
-       style="border-radius:12px;"
-       alt="AI Image">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80"
+     width="100%"
+     style="border-radius:12px;">
 </td>
 
 </tr>
