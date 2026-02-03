@@ -75,6 +75,7 @@
 <tr>
 
 <!-- ===== SECTION 1 ===== -->
+### 📌 Profile Highlights
 <td width="33%" valign="top">
 
 <h3>📊 GitHub Overview</h3>
