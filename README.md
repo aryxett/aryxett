@@ -38,15 +38,13 @@
 <br>
 
 <!-- ===================== CONNECT ===================== -->
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/aryan-patil" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:patilaryan532@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/>
-  </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/aryan-patil-626a8828b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:patilaryan532@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 </td>
@@ -119,6 +117,12 @@
 </table>
 
 </div>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-orange?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
+</p>
 
 <p align="center">
   <picture>
