@@ -126,7 +126,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
 </p>
 
-### 🔥 Contributions
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
