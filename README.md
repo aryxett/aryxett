@@ -3,7 +3,9 @@
 
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 😄, I'm Aryan Patil.</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="75%" />
+</p>
 
 <hr style="border:1px solid #30363d; margin:20px 0;">
 
