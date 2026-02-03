@@ -2,7 +2,7 @@
 <div style="background-color:#0d1117; padding:24px; border-radius:14px;">
 
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 😄, I'm Aryan Patil.</h1>
+<h1 align="center">Hi 👋, I'm Aryan Patil.</h1>
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Pursuing+AI+Internship;Google+Cloud+Skills+Boost;Python+%7C+Machine+Learning;Open+Source+Learner"
@@ -66,17 +66,8 @@
 <!-- ===================== LANGUAGES & TOOLS ===================== -->
 <h3>Languages and Tools:</h3>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,sql,git,github,docker,gcp,linux,tensorflow" />
 </p>
 
 <hr style="border:1px solid #30363d; margin:35px 0;">
