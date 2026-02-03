@@ -118,6 +118,7 @@
 
 </div>
 
+### 🏆 Badges & Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-orange?style=for-the-badge&logo=python&logoColor=white"/>
