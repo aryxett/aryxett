@@ -16,12 +16,15 @@
 </p>
 
 <!-- ============================================================
-     🧑‍🎤 BIO — Sung Jinwoo on the RIGHT (like the reference profile)
+     🧑‍🎤 BIO — Sung Jinwoo on the RIGHT, vertically centred
+     with the bio text (table layout: align="right" floats the
+     image to the TOP, which is why it was sitting up high).
      PNG is used here (transparent, blends into the dark theme).
      JPG version: swap the src below to ./assets/sung-jinwoo.jpg
      ============================================================ -->
-<div>
-  <img src="./assets/sung-jinwoo.png" align="right" width="260px" alt="Sung Jinwoo — Shadow Monarch" />
+<table>
+  <tr>
+    <td valign="middle" width="70%">
 
   <h1>Hey, I'm Aryan Patil 👋</h1>
 
@@ -44,9 +47,13 @@
     > ☁️ <i>"Every expert was once the weakest hunter in the gate."</i><br />
     > ⚔️ I don't wait for a system window to appear — I build my own quests.
   </p>
-</div>
 
-<br clear="right" />
+    </td>
+    <td valign="middle" align="center" width="30%">
+      <img src="./assets/sung-jinwoo.png" width="260px" alt="Sung Jinwoo — Shadow Monarch" />
+    </td>
+  </tr>
+</table>
 
 ---
 
