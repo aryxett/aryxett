@@ -46,7 +46,9 @@
 
 ---
 
-## `[ PLAYER STATUS ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=650&lines=PLAYER+STATUS" alt="PLAYER STATUS" />
+</p>
 
 ```ruby
 ╔══════════════════════════════════════════════╗
@@ -68,7 +70,9 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-## `[ STATS ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=400&lines=STATS" alt="STATS" />
+</p>
 
 ```text
 STR  (Cloud / GCP · AWS · Azure)  ███████░░░   Leveling
@@ -80,7 +84,9 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## `[ ☁️ CURRENT GRIND — THE CLOUD DUNGEON ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=CURRENT+GRIND" alt="CURRENT GRIND" />
+</p>
 
 > ⚔️ **Daily quests I'm clearing right now:**
 >
@@ -92,7 +98,9 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## `[ QUEST LOG — CLEARED DUNGEONS ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=500&lines=QUEST+LOG" alt="QUEST LOG" />
+</p>
 
 ### 🗡️ **S-RANK — DeskShweta**
 
@@ -110,7 +118,9 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## `[ SKILL ARSENAL ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=SKILL+ARSENAL" alt="SKILL ARSENAL" />
+</p>
 
 ### ☁️ **Cloud Runes**
 
@@ -132,7 +142,9 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## `[ BATTLE RECORD ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=BATTLE+RECORD" alt="BATTLE RECORD" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryxett&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=c77dff&icon_color=90e0ef&text_color=e0aaff" />
@@ -150,7 +162,9 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## `[ SHADOW ARMY MARCH ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=SHADOW+ARMY+MARCH" alt="SHADOW ARMY MARCH" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryxett/aryxett/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
@@ -158,7 +172,9 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## `[ SUMMON THE MONARCH ]`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=SUMMON+THE+MONARCH" alt="SUMMON THE MONARCH" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-patil-626a8828b"><img src="https://img.shields.io/badge/LinkedIn-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
