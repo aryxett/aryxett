@@ -17,42 +17,31 @@
 
 <!-- ============================================================
      🧑‍🎤 BIO — Sung Jinwoo on the RIGHT, vertically centred
-     with the bio text (table layout: align="right" floats the
-     image to the TOP, which is why it was sitting up high).
+     with the bio text. Table tags are flush-left with NO
+     indentation and NO blank lines around them: indented lines
+     after a blank line make GitHub render them as a code block
+     (that's the bug in the screenshot). Everything inside the
+     cells is plain HTML for the same reason.
      PNG is used here (transparent, blends into the dark theme).
      JPG version: swap the src below to ./assets/sung-jinwoo.jpg
      ============================================================ -->
 <table>
-  <tr>
-    <td valign="middle" width="70%">
-
-  <h1>Hey, I'm Aryan Patil 👋</h1>
-
-  <p>
-    A <b>Cloud Computing fresher</b> grinding his way up from the lowest rank —
-    like the weakest hunter in the dungeon who refused to stay weak.
-    I learn by building: cloud fundamentals, Python, and real AI products
-    that actually ship.
-  </p>
-
-  <p>
-    ✦ &nbsp; <b>Class:</b> Cloud Computing — Compute, Networking &amp; Storage<br />
-    ✦ &nbsp; <b>Guild:</b> Google Cloud Skills Boost<br />
-    ✦ &nbsp; <b>Current quest:</b> Cloud Engineer (fresher) — daily XP in GCP, AWS &amp; Azure<br />
-    ✦ &nbsp; <b>Hidden skill:</b> Forging &amp; shipping AI products — my shadow army of deployed apps<br />
-    ✦ &nbsp; <b>Based in:</b> India 🇮🇳
-  </p>
-
-  <p>
-    > ☁️ <i>"Every expert was once the weakest hunter in the gate."</i><br />
-    > ⚔️ I don't wait for a system window to appear — I build my own quests.
-  </p>
-
-    </td>
-    <td valign="middle" align="center" width="30%">
-      <img src="./assets/sung-jinwoo.png" width="260px" alt="Sung Jinwoo — Shadow Monarch" />
-    </td>
-  </tr>
+<tr>
+<td valign="middle" width="70%">
+<h1>Hey, I'm Aryan Patil 👋</h1>
+<p>A <b>Cloud Computing fresher</b> grinding his way up from the lowest rank — like the weakest hunter in the dungeon who refused to stay weak. I learn by building: cloud fundamentals, Python, and real AI products that actually ship.</p>
+<p>✦ &nbsp;<b>Class:</b> Cloud Computing — Compute, Networking &amp; Storage<br>
+✦ &nbsp;<b>Guild:</b> Google Cloud Skills Boost<br>
+✦ &nbsp;<b>Current quest:</b> Cloud Engineer (fresher) — daily XP in GCP, AWS &amp; Azure<br>
+✦ &nbsp;<b>Hidden skill:</b> Forging &amp; shipping AI products — my shadow army of deployed apps<br>
+✦ &nbsp;<b>Based in:</b> India 🇮🇳</p>
+<p>&gt; ☁️ <i>"Every expert was once the weakest hunter in the gate."</i><br>
+&gt; ⚔️ I don't wait for a system window to appear — I build my own quests.</p>
+</td>
+<td valign="middle" align="center" width="30%">
+<img src="./assets/sung-jinwoo.png" width="260px" alt="Sung Jinwoo — Shadow Monarch" />
+</td>
+</tr>
 </table>
 
 ---
