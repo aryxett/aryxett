@@ -46,7 +46,7 @@
 
 ---
 
-## About Me
+<img src="./assets/heading-about-me.svg" alt="About Me" />
 
 ```ruby
 ╔══════════════════════════════════════════════╗
@@ -68,19 +68,9 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-## Stats
-
-```text
-STR  (Cloud / GCP · AWS · Azure)  ███████░░░   Leveling
-INT  (Python / AI)                █████████░   High
-AGI  (Building & Shipping)        ████████░░   High
-VIT  (Reliability / Uptime)       ███████░░░   Growing
-PER  (Problem Solving)            ████████░░   High
-```
-
 ---
 
-## What I'm Learning
+<img src="./assets/heading-learning.svg" alt="What I'm Learning" />
 
 > ⚔️ **Daily quests I'm clearing right now:**
 >
@@ -92,7 +82,7 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## Projects
+<img src="./assets/heading-projects.svg" alt="Projects" />
 
 ### 🗡️ **S-RANK — DeskShweta**
 
@@ -110,7 +100,7 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## Skills & Tools
+<img src="./assets/heading-skills.svg" alt="Skills & Tools" />
 
 ### Cloud Platforms
 
@@ -132,7 +122,7 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## GitHub Stats
+<img src="./assets/heading-github-stats.svg" alt="GitHub Stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryxett&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=c77dff&icon_color=90e0ef&text_color=e0aaff" />
@@ -150,7 +140,7 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## Contributions
+<img src="./assets/heading-contributions.svg" alt="Contributions" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryxett/aryxett/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
@@ -158,7 +148,7 @@ PER  (Problem Solving)            ████████░░   High
 
 ---
 
-## Connect With Me
+<img src="./assets/heading-connect.svg" alt="Connect With Me" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-patil-626a8828b"><img src="https://img.shields.io/badge/LinkedIn-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
