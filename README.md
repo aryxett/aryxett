@@ -68,18 +68,6 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-## Stats
-
-```text
-STR  (Cloud / GCP · AWS · Azure)  ███████░░░   Leveling
-INT  (Python / AI)                █████████░   High
-AGI  (Building & Shipping)        ████████░░   High
-VIT  (Reliability / Uptime)       ███████░░░   Growing
-PER  (Problem Solving)            ████████░░   High
-```
-
----
-
 ## What I'm Learning
 
 > ⚔️ **Daily quests I'm clearing right now:**
@@ -94,13 +82,13 @@ PER  (Problem Solving)            ████████░░   High
 
 ## Projects
 
-### 🗡️ **S-RANK — DeskShweta**
+### 🗡️ **DeskShweta**
 
 > A PyQt5 **desktop AI assistant** with a live **VRM avatar** and **multi-provider AI fallback** — if one model/API falls, the next shadow rises. It never goes down.
 >
 > *Cloud angle: designed to be containerised and deployed as a service, with fallback engineering for reliability.*
 
-### 🗡️ **A-RANK — ElderCare AI (ElderSaathi)**
+### 🗡️ **ElderCare AI**
 
 > A **Flutter + FastAPI** Android raid built for elderly Indian hunters — **Hindi voice interaction** so tech becomes accessible to everyone, not just high-levels.
 >
@@ -174,5 +162,3 @@ PER  (Problem Solving)            ████████░░   High
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,55:3a0ca3,100:0d0221&height=130&section=footer&text=ARISE.&fontColor=c77dff&fontSize=28&fontAlignY=72" />
 </p>
-
-<p align="center"><i>⚔️ "Arise — from the weakest hunter to the Shadow Monarch of the Cloud."</i></p>
