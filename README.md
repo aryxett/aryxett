@@ -1,14 +1,15 @@
 <!--
   Profile README for github.com/aryxett (Aryan Patil).
   Layout & animation style inspired by: github.com/Prathameshkhairnarr
-  Anime touch: Solo Leveling — hero-arise.gif on top, Sung Jinwoo
+  Anime touch: Solo Leveling — hero-arise-banner.gif (wide banner crop)
+  on top, Sung Jinwoo
   beside the bio. Custom animated cards live in ./assets.
   Every claim here is something Aryan can explain in an interview.
 -->
 
-<!-- Header — Solo Leveling: Sung Jinwoo "ARISE" (animated GIF) -->
+<!-- Header — Solo Leveling: Sung Jinwoo "ARISE" (animated GIF, wide banner 498x160) -->
 <div align="center">
-<img src="./assets/hero-arise.gif" width="100%" alt="Sung Jinwoo — Arise" />
+<img src="./assets/hero-arise-banner.gif" width="100%" alt="Sung Jinwoo — Arise" />
 </div>
 
 <!-- Open to work -->
