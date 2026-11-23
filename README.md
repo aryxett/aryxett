@@ -128,14 +128,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxett&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=c77dff&text_color=e0aaff" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryxett&theme=nord&no-frame=true&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryxett&bg_color=0D0221&color=c77dff&line=7209b7&point=90e0ef&area=true&hide_border=true" />
-</p>
-
 ---
 
 ## Contributions
