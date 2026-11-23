@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Open to work: fresher Cloud roles — GCP, AWS, Azure.">
+<style>
+.r{transform-box:fill-box;transform-origin:center;animation:r 2s ease-out infinite}
+@keyframes r{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.6);opacity:0}}
+.sh{animation:sh 4s linear infinite}
+@keyframes sh{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+@media (prefers-reduced-motion:reduce){.r,.sh{animation:none}}
+</style>
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0d0221"/><stop offset="1" stop-color="#2a0a4a"/></linearGradient>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#c77dff" stop-opacity="0"/><stop offset=".5" stop-color="#c77dff" stop-opacity=".16"/><stop offset="1" stop-color="#c77dff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="96" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="96" fill="url(#g)"/>
+<rect class="sh" width="300" height="96" fill="url(#s)"/>
+<circle class="r" cx="44" cy="48" r="9" fill="#3fb950"/>
+<circle cx="44" cy="48" r="9" fill="#3fb950"/>
+<text x="70" y="58" font-family="'Segoe UI',Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff">OPEN TO WORK</text>
+<text x="330" y="58" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#c77dff">Fresher Cloud / DevOps roles — Pune · Mumbai · Bengaluru · Hyderabad</text>
+</g>
+</svg>

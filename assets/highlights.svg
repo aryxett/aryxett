@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Highlights: AWS hands-on, Linux and CCNA training, Google Cloud Arcade Facilitator, Faraway Hackathon Round 2.">
+<style>
+.f{animation:f .8s ease-out both}
+@keyframes f{0%{opacity:0;transform:translateY(8px)}100%{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.f{animation:none}}
+</style>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1035"/><stop offset="1" stop-color="#0d0221"/></linearGradient>
+</defs>
+<rect width="1200" height="120" rx="14" fill="none"/>
+<g class="f" style="animation-delay:.05s">
+<rect x="0" y="8" width="288" height="104" rx="12" fill="url(#b)" stroke="#c77dff" stroke-opacity=".45"/>
+<circle cx="30" cy="38" r="6" fill="#c77dff"/>
+<text x="48" y="46" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">AWS hands-on</text>
+<text x="18" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#90e0ef">EC2 · IAM · S3 · VPC</text>
+</g>
+<g class="f" style="animation-delay:.25s">
+<rect x="304" y="8" width="288" height="104" rx="12" fill="url(#b)" stroke="#c77dff" stroke-opacity=".45"/>
+<circle cx="334" cy="38" r="6" fill="#90e0ef"/>
+<text x="352" y="46" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Linux &amp; CCNA</text>
+<text x="322" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#90e0ef">RHEL · Networking training</text>
+</g>
+<g class="f" style="animation-delay:.45s">
+<rect x="608" y="8" width="288" height="104" rx="12" fill="url(#b)" stroke="#c77dff" stroke-opacity=".45"/>
+<circle cx="638" cy="38" r="6" fill="#7209b7"/>
+<text x="656" y="46" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Google Cloud</text>
+<text x="626" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#90e0ef">Arcade Facilitator</text>
+</g>
+<g class="f" style="animation-delay:.65s">
+<rect x="912" y="8" width="288" height="104" rx="12" fill="url(#b)" stroke="#c77dff" stroke-opacity=".45"/>
+<circle cx="942" cy="38" r="6" fill="#3fb950"/>
+<text x="960" y="46" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Hackathon Round 2</text>
+<text x="930" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#90e0ef">MindBridge · Team Lead</text>
+</g>
+</svg>
