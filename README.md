@@ -1,105 +1,135 @@
-<!-- ====================== ANIMATED HEADER ====================== -->
+<!-- ======================================================= -->
+<!--      SOLO LEVELING / "THE SYSTEM" THEMED PROFILE        -->
+<!--  NOTE: drop your own art/GIF in the marked slots below   -->
+<!--  (fan-art you own / commissioned / royalty-free only).   -->
+<!-- ======================================================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=200&section=header&text=Aryan%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20Engineer%20%E2%98%81%EF%B8%8F%20%7C%20DevOps%20%7C%20AI%20Product%20Builder&descAlignY=58&descSize=18" />
+<!-- ========== TOP ANIMATION SLOT (put your short video/GIF here) ========== -->
+<!-- GitHub can't autoplay mp4 in README; export your clip as a .gif and link it -->
+<!-- e.g. <img src="assets/arise-intro.gif" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3a0ca3,100:7209b7&height=230&section=header&text=%E2%9A%94%EF%B8%8F%20ARISE&fontSize=70&fontColor=c77dff&animation=fadeIn&fontAlignY=40&desc=%5B%20SYSTEM%20INITIALIZED%20%5D&descAlignY=62&descSize=18&descColor=90e0ef" width="100%" />
 
-<!-- Swap the GIF below for any anime-style coding GIF you like -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
-
-<!-- ====================== TYPING ANIMATION ====================== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=24C6DC&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;DevOps+%26+Infra+Automation+Enthusiast;Google+Cloud+Skills+Boost+Learner;Building+AI+Products+That+Ship;Architect%2C+Prompt%2C+and+Deploy" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- ====================== PROFILE VIEWS + SOCIALS ====================== -->
-<img src="https://komarev.com/ghpvc/?username=aryxett&label=Profile%20Views&color=24c6dc&style=flat" alt="profile views" />
-
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/aryxett"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- ========== MAIN CHARACTER / HUNTER ART SLOT ========== -->
+<!-- Drop your Solo-Leveling-style avatar / hunter art here -->
+<!-- <img src="assets/hunter.png" width="260"/> -->
 
 </div>
 
-<!-- ====================== ABOUT ====================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> `whoami`
+<!-- ========== SYSTEM NOTIFICATION TYPING ========== -->
+<div align="center">
 
-```yaml
-name: Aryan Patil
-role: Aspiring Cloud Engineer | DevOps Fresher | AI Product Builder
-focus: Cloud infrastructure, automation, and shipping AI apps to production
-currently_learning: Cloud Computing (compute, networking, IaC, CI/CD)
-mindset: "architect, prompt, and ship"
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&duration=2600&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=%5B+NOTIFICATION+%5D+You+have+become+a+Player.;JOB+ASSIGNED%3A+Cloud+Engineer+%E2%98%81%EF%B8%8F;CLASS%3A+DevOps+%2F+Infra+Automation;HIDDEN+SKILL%3A+AI+Product+Builder;OBJECTIVE%3A+Architect%2C+Prompt%2C+and+Deploy." alt="System Typing" />
+
+</div>
+
+<!-- ========== PLAYER STATUS WINDOW ========== -->
+## `[ PLAYER STATUS ]`
+
+```ruby
+╔══════════════════════════════════════════════╗
+║                                              
+║   NAME ........ Aryan Patil                   
+║   TITLE ....... "The Cloud Monarch"           
+║   JOB ......... Aspiring Cloud Engineer ☁️     
+║   CLASS ....... DevOps / Infra Automation     
+║   LEVEL ....... Rising (Fresher, grinding XP) 
+║   GUILD ....... Google Cloud Skills Boost     
+║                                              
+║   PASSIVE ..... "architect, prompt, and ship" 
+║                                              
+╚══════════════════════════════════════════════╝
 ```
 
-☁️ I'm moving into **cloud engineering and DevOps** — learning how to design, deploy, and automate infrastructure that scales. My goal is a **cloud / DevOps fresher role**, and I'm getting there through hands-on labs (**Google Cloud Skills Boost**) and by deploying my own projects end-to-end.
+> ☁️ A low-rank hunter leveling up through the **Cloud dungeon** — learning to design, deploy, and automate infrastructure that scales. Currently clearing daily quests in **compute, networking, IaC and CI/CD**, hunting a **Cloud / DevOps fresher** rank.
+>
+> 🤖 Outside the gates, I **forge and ship real AI products** — my shadow army of deployed apps.
 
-🤖 Alongside cloud, I build and ship **real AI products**:
-- **DeskShweta** — a PyQt5 **desktop AI assistant** with a live VRM avatar and multi-provider AI fallback, so it keeps responding even if one model/API goes down.
-- **ElderCare AI (ElderSaathi)** — a **Flutter + FastAPI** Android app for elderly Indian users, with Hindi voice interaction to make tech genuinely accessible.
+<!-- ========== STATS BARS ========== -->
+## `[ STATS ]`
 
-🎯 These projects are where cloud meets product for me — containerizing services, wiring up backends, and thinking about reliability, fallback, and deployment.
+```text
+STR  (Cloud / Infra)      ███████░░░   Leveling
+AGI  (Automation / CI-CD) ██████░░░░   Leveling
+INT  (AI / Python)        █████████░   High
+VIT  (Reliability/Uptime) ███████░░░   Growing
+PER  (Problem Solving)    ████████░░   High
+```
 
-- 🌱 Currently sharpening: **AWS / GCP, Docker, Kubernetes, Terraform, CI/CD**
-- 🤝 Open to collaborate on: **cloud-native, DevOps, and AI projects**
-- 💬 Ask me about: **Cloud, Docker, Python, FastAPI, and AI app deployment**
+<!-- ========== QUEST LOG (PROJECTS) ========== -->
+## `[ QUEST LOG — CLEARED DUNGEONS ]`
 
-<!-- ====================== TOOLS FEED ====================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Languages & Tools
+🗡️ **S-RANK — DeskShweta**
+> A PyQt5 **desktop AI assistant** with a live **VRM avatar** and **multi-provider AI fallback** — if one model/API falls, the next shadow rises. It never goes down.
+
+🗡️ **A-RANK — ElderCare AI (ElderSaathi)**
+> A **Flutter + FastAPI** Android raid built for elderly Indian hunters — **Hindi voice interaction** so tech becomes accessible to everyone, not just high-levels.
+
+> ⚔️ Each quest = cloud meets product: containerizing services, wiring backends, and engineering for reliability, fallback, and deployment.
+
+<!-- ========== SKILLS / WEAPON ARSENAL ========== -->
+## `[ SKILL ARSENAL ]`
 
 <div align="center">
 
-### Core Stack
+**⚔️ Core Runes**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,github,docker,linux,tensorflow" />
 
-### Cloud & DevOps
+**☁️ Cloud & DevOps Shadows**
+<br/>
 <img src="https://skillicons.dev/icons?i=gcp,aws,azure,kubernetes,terraform,bash,ansible,nginx,prometheus,grafana" />
 
 </div>
 
-<!-- ====================== GITHUB STATS ====================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
+<!-- ========== BATTLE RECORD (STATS) ========== -->
+## `[ BATTLE RECORD ]`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryxett&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=24c6dc&icon_color=24c6dc" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aryxett&theme=radical&hide_border=true&background=0D1117&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryxett&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=c77dff&icon_color=90e0ef&text_color=e0aaff" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aryxett&theme=tokyonight&hide_border=true&background=0D0221&ring=c77dff&fire=c77dff&currStreakLabel=c77dff&sideLabels=90e0ef" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxett&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=24c6dc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxett&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=c77dff&text_color=e0aaff" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryxett&theme=radical&no-frame=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=aryxett&theme=nord&no-frame=true&column=7&margin-w=10" />
 
-</div>
-
-<!-- ====================== ACTIVITY GRAPH ====================== -->
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryxett&bg_color=0D1117&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryxett&bg_color=0D0221&color=c77dff&line=7209b7&point=90e0ef&area=true&hide_border=true" />
 
 </div>
 
-<!-- ====================== SNAKE ANIMATION ====================== -->
+<!-- ========== SHADOW ARMY (SNAKE) ========== -->
+## `[ SHADOW ARMY MARCH ]`
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryxett/aryxett/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryxett/aryxett/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aryxett/aryxett/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/aryxett/aryxett/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
-<!-- ====================== FOOTER ====================== -->
+<!-- ========== CONTACT / SUMMON ========== -->
+## `[ SUMMON THE MONARCH ]`
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" />
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-7209b7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/aryxett"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=c77dff" /></a>
 
-<i>⭐ From infra to AI — architect, prompt, and ship.</i>
+<img src="https://komarev.com/ghpvc/?username=aryxett&label=HUNTERS%20ENCOUNTERED&color=7209b7&style=flat" />
 
 </div>
 
+<!-- ========== FOOTER ========== -->
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,55:3a0ca3,100:0d0221&height=130&section=footer&text=ARISE.&fontColor=c77dff&fontSize=28&fontAlignY=72" />
 
+<i>⚔️ "I alone level up — from infra to AI."</i>
 
-
+</div>
