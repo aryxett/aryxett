@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Highlights: AWS hands-on, Linux and CCNA training, Google Cloud Arcade Facilitator, Faraway Hackathon Round 2.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Highlights: AWS hands-on, Linux and CCNA training, Google Cloud Arcade Participant, Faraway Hackathon Round 2.">
 <style>
 .f{animation:f .8s ease-out both}
 @keyframes f{0%{opacity:0;transform:translateY(8px)}100%{opacity:1;transform:none}}
@@ -24,7 +24,7 @@
 <rect x="608" y="8" width="288" height="104" rx="12" fill="url(#b)" stroke="#c77dff" stroke-opacity=".45"/>
 <circle cx="638" cy="38" r="6" fill="#7209b7"/>
 <text x="656" y="46" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Google Cloud</text>
-<text x="626" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#90e0ef">Arcade Facilitator</text>
+<text x="626" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#90e0ef">Arcade Participant</text>
 </g>
 <g class="f" style="animation-delay:.65s">
 <rect x="912" y="8" width="288" height="104" rx="12" fill="url(#b)" stroke="#c77dff" stroke-opacity=".45"/>
