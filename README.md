@@ -30,7 +30,7 @@
 <img src="https://komarev.com/ghpvc/?username=aryxett&style=for-the-badge&color=7209b7&labelColor=1a1b27&label=views" alt="views" />
 </p>
 
-<img src="./assets/highlights.svg" width="100%" alt="AWS hands-on, Linux and CCNA training, Google Cloud Arcade Participant, Faraway Hackathon Round 2" />
+<img src="./assets/highlights.svg?v=2" width="100%" alt="AWS hands-on, Linux and CCNA training, Google Cloud Arcade Participant, Faraway Hackathon Round 2" />
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="34" alt="" /> Why hire me</h2>
 
